@@ -1,6 +1,9 @@
 # CI/CD Pipeline with GitHub Actions & Docker
 This project demonstrates a full CI/CD pipeline using **GitHub Actions** and **Docker**, targeting a Python Django web application. The pipeline automatically builds and deploys the app whenever changes are pushed to the `main` branch.
 
+## Objective: 
+Set up a full CI/CD pipeline that builds a Docker image, runs tests, and deploys locally.
+
 ## Tools Used
 
 - **GitHub Actions** – for automating CI/CD
